@@ -1,8 +1,8 @@
 # ScrubIn-codex website
 
-Generated browser version of ScrubIn-codex. Five focused abdominal wall and hernia lectures (20–30 minutes each), with 60 explained MCQs and 75 flashcards. A separate 10-minute Spigelian hernia lesson covers elective and emergency care, with 5 additional MCQs and 8 cards. Reading estimates use 150 words/minute; practice is extra. Full chapters remain available. Clinical peer review remains pending.
+Generated browser version of ScrubIn-codex. One self-contained inguinal hernia lecture paraphrased from the user-uploaded Schwartz 11th-edition chapter: approximately 40 minutes at 150 words/minute, including 12 original illustrations and their explanations. Technical terms, anatomy, diagnosis, repair choices, open operations, TEP/TAPP, and complications are explained within the lecture. Picture enlargement and a contents menu are included. Five MCQs and eight flashcards are extra practice. The previous six hernia lessons have been replaced. Clinical peer review remains pending; recommendations reflect the 2019 textbook edition.
 
-In the app: Library → Study → Abdominal wall & hernias → Abdominal wall and hernia anatomy. Read below the practice buttons; the next four chapters follow in course order.
+In the app: Library → Study → Hernia study → Inguinal hernia — Schwartz explained. Direct lecture: https://bnnajem507.github.io/ScrubIn-codex/library/topic/inguinal-hernia-schwartz/overview/ . Read the lecture before the optional practice buttons. Previously shared hernia lesson links open this replacement.
 
 This repository is for generated website files only. Keep the original ScrubIn-Cloud repository private. Enable Pages using Deploy from a branch → main → /(root). .nojekyll preserves Expo assets; 404.html loads SPA routes. Browser data stays in that browser and does not sync with the iPhone app. Live AI requires a key entered in Settings; none is bundled here.
 

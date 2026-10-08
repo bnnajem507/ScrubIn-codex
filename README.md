@@ -1,6 +1,6 @@
 # ScrubIn-codex website
 
-Generated browser version of ScrubIn-codex. Five abdominal wall and hernia chapters, 60 explained MCQs and 75 flashcards. Clinical peer review remains pending.
+Generated browser version of ScrubIn-codex. Five focused abdominal wall and hernia lectures (20–30 minutes each), with 60 explained MCQs and 75 flashcards. A separate 10-minute Spigelian hernia lesson covers elective and emergency care, with 5 additional MCQs and 8 cards. Reading estimates use 150 words/minute; practice is extra. Full chapters remain available. Clinical peer review remains pending.
 
 In the app: Library → Study → Abdominal wall & hernias → Abdominal wall and hernia anatomy. Read below the practice buttons; the next four chapters follow in course order.
 
